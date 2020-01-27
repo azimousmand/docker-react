@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="647c8119-4d5d-4a8e-acab-b3a8fc7889dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,5 +42,13 @@
       <screen x="0" y="1080" width="3440" height="1440" />
     </state>
     <state x="1435" y="1618" width="630" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.3440.1440/801.0.1920.1080@0.1080.3440.1440" timestamp="1580010763836" />
+    <state x="1610" y="1526" width="279" height="581" key="RollbackChangesDialog" timestamp="1580093692124">
+      <screen x="0" y="1080" width="3440" height="1440" />
+    </state>
+    <state x="1610" y="1526" width="279" height="581" key="RollbackChangesDialog/0.1080.3440.1440/801.0.1920.1080@0.1080.3440.1440" timestamp="1580093692124" />
+    <state x="1418" y="1429" width="672" height="678" key="search.everywhere.popup" timestamp="1580093982849">
+      <screen x="0" y="1080" width="3440" height="1440" />
+    </state>
+    <state x="1418" y="1429" width="672" height="678" key="search.everywhere.popup/0.1080.3440.1440/801.0.1920.1080@0.1080.3440.1440" timestamp="1580093982849" />
   </component>
 </project>
